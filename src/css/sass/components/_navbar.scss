@@ -1,0 +1,18 @@
+.nav {
+    .content {
+        text-align: center;
+
+        .btn {
+            border: 1px solid rgba($fontColor, 1);
+            border-radius: 20px;
+            color: $fontColor;
+            font-weight: 600;
+            padding: 10px 8px;
+            letter-spacing: 1.6px;
+            overflow: hidden;
+            margin-left: 15px;
+            min-width: 100px;
+            line-height: 1.8;
+        }
+    }
+}

@@ -1,0 +1,21 @@
+.planets-content {
+    .pagination-area {
+        .btn {
+            border: 1px solid rgba($fontColor, 1);
+            border-radius: 20px;
+            color: $fontColor;
+            font-weight: 600;
+            padding: 8px 10px;
+            letter-spacing: 1.6px;
+            overflow: hidden;
+
+            min-width: 100px;
+            line-height: 1.8;
+        }
+
+        .page-number {
+            margin: 0 10px;
+            color: $titleFColor;
+        }
+    }
+}

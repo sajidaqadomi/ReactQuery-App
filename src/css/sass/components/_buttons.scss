@@ -1,0 +1,12 @@
+.App {
+    button {
+        &.btn {
+            transition: all .3s ease-in-out;
+
+            &:hover {
+                color: $titleFColor;
+                border: 1px solid rgba($titleFColor, 1);
+            }
+        }
+    }
+}
